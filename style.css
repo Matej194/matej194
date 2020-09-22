@@ -1,6 +1,10 @@
-td{background-color:rgb(12, 55, 2);
+td{
+    background-color: rgb(100, 2, 29);
+}
 
-.container {text-align: center;}
+.container{
+    text-align: center;
+}
 
 .table1 {
     width: 100%;
@@ -15,4 +19,6 @@ td{
     border-collapse: collapse;
 }
 
-.height{height: 50px;}
+.height{
+    height: 50px;
+}
